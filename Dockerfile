@@ -1,4 +1,4 @@
-FROM szeist/phalcon:base
+FROM szeist/phalcon
 
 MAINTAINER Istvan Szenasi <szeist@gmail.com>
 
